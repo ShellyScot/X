@@ -1,4 +1,4 @@
-#INSTALL TOOL
+# INSTALL TOOL
 
 ➤ pkg install python
 
