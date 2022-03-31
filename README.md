@@ -20,6 +20,6 @@
 
 ➤ cd X
 
-➤ python run.py
+➤ python X.X.X.py
 
 [••] TOOL FREE
